@@ -1,1 +1,2 @@
 # TriggerablePi
+Fast triggering
